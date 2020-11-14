@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fbda4c2.chunk.css",
+    "main.js": "/static/js/main.1399c53d.chunk.js",
+    "main.js.map": "/static/js/main.1399c53d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5f736a35.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5f736a35.js.map",
+    "static/js/2.235572b8.chunk.js": "/static/js/2.235572b8.chunk.js",
+    "static/js/2.235572b8.chunk.js.map": "/static/js/2.235572b8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7fbda4c2.chunk.css.map": "/static/css/main.7fbda4c2.chunk.css.map",
+    "static/js/2.235572b8.chunk.js.LICENSE.txt": "/static/js/2.235572b8.chunk.js.LICENSE.txt",
+    "static/media/banner.380a65bb.webp": "/static/media/banner.380a65bb.webp",
+    "static/media/bars-solid.e8db7520.svg": "/static/media/bars-solid.e8db7520.svg",
+    "static/media/logo-godrej.671beead.png": "/static/media/logo-godrej.671beead.png",
+    "static/media/shopping-cart-solid.d146d6c3.svg": "/static/media/shopping-cart-solid.d146d6c3.svg",
+    "static/media/times-solid.ea7c95d7.svg": "/static/media/times-solid.ea7c95d7.svg",
+    "static/media/user-1.b0b1409c.png": "/static/media/user-1.b0b1409c.png",
+    "static/media/user-2.814f3ba7.png": "/static/media/user-2.814f3ba7.png",
+    "static/media/user-3.a547be21.png": "/static/media/user-3.a547be21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f736a35.js",
+    "static/js/2.235572b8.chunk.js",
+    "static/css/main.7fbda4c2.chunk.css",
+    "static/js/main.1399c53d.chunk.js"
+  ]
+}
